@@ -133,13 +133,10 @@ section {
 
 
 .section-formations {
-  max-width: 1400px;
-  margin: 0 auto;
-  padding: 48px 12px;
-  row-gap: 16px;
   display: flex;
   flex-direction: column;
   row-gap: 16px;
+  padding: 24px;
   background: #fff;
   border-radius: 14px;
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
